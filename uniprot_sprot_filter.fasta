@@ -1,0 +1,250 @@
+>sp|C0HLM8|11S1_ELAGV Globulin 1 (Fragment) OS=Elaeis guineensis var. tenera OX=51953 PE=1 SV=1
+GLEETYCSMKIK
+>sp|C0HLM9|11S2_ELAGV Globulin 2 (Fragment) OS=Elaeis guineensis var. tenera OX=51953 PE=1 SV=1
+GLEETYCSMRIKENI
+>sp|P80438|12KD_MYCSM 12 kDa protein (Fragment) OS=Mycolicibacterium smegmatis OX=1772 PE=1 SV=1
+MFHVLTLTYLCPLDVVXQTRPAHV
+>sp|P83011|13KDA_SCYCA 13.2 kDa protein (Fragment) OS=Scyliorhinus canicula OX=7830 PE=1 SV=1
+MIFTAXDRSAIEXV
+>sp|P83010|13KDA_TRISC 13 kDa protein (Fragment) OS=Triakis scyllium OX=30494 PE=1 SV=1
+AGEPANNEDRFNY
+>sp|P85941|14333_PSEMZ 14-3-3-like protein 3 (Fragment) OS=Pseudotsuga menziesii OX=3357 PE=1 SV=1
+LDVELTVEER
+>sp|P85942|14334_PSEMZ 14-3-3-like protein 4 (Fragments) OS=Pseudotsuga menziesii OX=3357 PE=1 SV=1
+LDVELTVEERNLLSVGYKDSTLIMQLLR
+>sp|P84972|1433_POPEU 14-3-3-like protein (Fragment) OS=Populus euphratica OX=75702 PE=1 SV=1
+LAEQAERYEEMVEFMEK
+>sp|Q06JG5|16D10_MELAR CLAVATA3/ESR (CLE)-related protein 16D10 OS=Meloidogyne arenaria OX=6304 GN=16D10 PE=2 SV=1
+MFTNSIKNLIIYLMPLMVTLMLLSVSFVDAGKKPSGPNPGGNN
+>sp|Q06JG4|16D10_MELHA CLAVATA3/ESR (CLE)-related protein 16D10 OS=Meloidogyne hapla OX=6305 GN=16D10 PE=2 SV=1
+MFTNSIKNLIIYLMPLMVTLMLLSVSFVDAGKKPSGPNPGGNN
+>sp|Q6YKB1|16D10_MELIC CLAVATA3/ESR (CLE)-related protein 16D10 OS=Meloidogyne incognita OX=6306 GN=16D10 PE=1 SV=1
+MFTNSIKNLIIYLMPLMVTLMLLSVSFVDAGKKPSGPNPGGNN
+>sp|Q06JG6|16D10_MELJA CLAVATA3/ESR (CLE)-related protein 16D10 OS=Meloidogyne javanica OX=6303 GN=16D10 PE=2 SV=1
+MFTNSIKNLIIYLMPLMVTLMLLSVSFVDAGKKPSGPNPGGNN
+>sp|P80166|23KD_GEOSE 23 kDa basic protein (Fragment) OS=Geobacillus stearothermophilus OX=1422 PE=1 SV=1
+XKESSFDIVSKVDLSEVANAIN
+>sp|P14592|24KD_PLACH 24 kDa antigen (Fragment) OS=Plasmodium chabaudi OX=5825 PE=2 SV=1
+NYCYYMVDYLTFYNIKNYKIYTYAQRLLEIYFSYLSI
+>sp|P83072|26KD_BACCE 26 kDa protein (Fragment) OS=Bacillus cereus OX=1396 PE=1 SV=1
+MKLIAKTRILNTLVFSAAGK
+>sp|P33405|28KD_TRIFO 28 kDa protein (Fragment) OS=Tritrichomonas foetus OX=56690 PE=1 SV=1
+ARYAILFAGSNVVYNAXXQADIYTIYTFL
+>sp|P11887|2ENR_CLOTY 2-enoate reductase (Fragment) OS=Clostridium tyrobutyricum OX=1519 PE=1 SV=1
+MKNKSLFEVIKIGKVEVXXKIXMAVMGAFG
+>sp|P84782|2SS1_BRAOA Napin-like polypeptide (Fragments) OS=Brassica oleracea var. alboglabra OX=3714 PE=1 SV=1
+PAQPFRIKKRQGPFERP
+>sp|P84529|2SS1_BRARC Antibacterial napin (Fragments) OS=Brassica rapa subsp. chinensis OX=93385 PE=1 SV=1
+PAQPFRFPKHPQGPQTRPPI
+>sp|B3EWN4|2SSL_RICCO 2S seed storage-like protein (Fragment) OS=Ricinus communis OX=3988 PE=1 SV=1
+QDYCAQEGQQEVQRKDLSDLERYLRQSRQR
+>sp|P86783|2SS_TAROF 2S seed storage albumin protein (Fragments) OS=Taraxacum officinale OX=50225 PE=1 SV=1
+PVSRQQCSQRIQGERFNQCRSQMQDGQLQSCCQELQNVEEQCQC
+>sp|P84027|32C7_ANCSP U1-ctenitoxin-Asp1a (Fragment) OS=Ancylometes sp. OX=280265 PE=1 SV=1
+SDNEFPSGCIEFGKECDLDKGNCQCCRRNGYCSCAVN
+>sp|P83064|34KD_BACCE 34 kDa protein (Fragment) OS=Bacillus cereus OX=1396 PE=1 SV=1
+MLVGMTEMVN
+>sp|P23168|36020_ASFB7 Protein MGF 360-20R OS=African swine fever virus (strain Badajoz 1971 Vero-adapted) OX=10498 GN=BA71V-157 PE=2 SV=2
+MPTPLSLQALAKKVLATQHISKDHLYFEILWFMVAFFDAYSL
+>sp|Q91FE0|384L_IIV6 Uncharacterized protein 384L OS=Invertebrate iridescent virus 6 OX=176652 GN=IIV6-384L PE=4 SV=1
+MNIAISFTQAFCTHDEDCLEGQCCVQRICIDCNVLKLHRM
+>sp|P37046|3CP1_STRS9 Tricyclic peptide RP 71955 OS=Streptomyces sp. (strain SP9440) OX=72594 PE=1 SV=3
+CLGIGSCNDFAGCGYAVVCFW
+>sp|P85078|3CP2_STRSQ Tricyclic peptide MS-271 OS=Streptomyces sp. OX=1931 PE=1 SV=2
+CLGVGSCNDFAGCGYAIVCFW
+>sp|P32185|3HIDH_RABIT 3-hydroxyisobutyrate dehydrogenase (Fragment) OS=Oryctolagus cuniculus OX=9986 GN=HIBADH PE=1 SV=1
+ASKTPVGFIGLGNMGNPMAKNLMKHGYPLIIYDVF
+>sp|P86522|3L2A2_ACAAN Alpha-elapitoxin-Aa2a (Fragment) OS=Acanthophis antarcticus OX=8605 PE=1 SV=1
+VICYRGYNYAQPCPPGENVCFTKTWCDARCYQLGK
+>sp|P0CJ35|3L2L_OXYSC Taicatoxin, alpha-neurotoxin-like component (Fragment) OS=Oxyuranus scutellatus scutellatus OX=8667 PE=1 SV=1
+RRCFITPNVRSERCPPGQEVCFTKTXDG
+>sp|C0HJW9|3NO21_NAJKA Neurotoxin Nk-3FTx (Fragment) OS=Naja kaouthia OX=8649 PE=1 SV=2
+LTCLNCPEMFCGKFQICRNGEKICFKKLHQRRP
+>sp|C0HJI9|3S11B_BUNFA Alpha-elapitoxin-Bf1b (Fragment) OS=Bungarus fasciatus OX=8613 PE=1 SV=1
+RICLNQQSSEPQTTEICPDGEDTCY
+>sp|P86425|3S16_MICFR Frontoxin VI (Fragment) OS=Micrurus frontalis OX=129461 PE=1 SV=1
+LICYNDHGYTGKTTETCENGETTCYEKSR
+>sp|P0CAR3|3S1E1_MICPY Short neurotoxin E1 (Fragment) OS=Micrurus pyrrhocryptus OX=129468 PE=1 SV=1
+MICYNHQSSEPPTTXTCSEGQ
+>sp|P0CAR5|3S1E3_MICPY Weak neurotoxin E3 (Fragment) OS=Micrurus pyrrhocryptus OX=129468 PE=1 SV=1
+LICFNDFSPTARTLEYCQIGITTYNPS
+>sp|P59072|3S331_PSETE Short neurotoxin N1 (Fragment) OS=Pseudonaja textilis OX=8673 PE=1 SV=1
+LTCYKGYRDTV
+>sp|P59073|3S332_PSETE Short neurotoxin N2 (Fragment) OS=Pseudonaja textilis OX=8673 PE=1 SV=1
+LTCYKGYHDTVVCKP
+>sp|P0DMV6|3SA12_DABRR 7.2 kDa cytotoxin RVV-7 (Fragment) OS=Daboia russelii OX=8707 PE=1 SV=1
+LECNKLVDIAYITCPAGKNL
+>sp|P85429|3SA1F_NAJAT Cytotoxin 1f (Fragment) OS=Naja atra OX=8656 PE=1 SV=1
+LKCNKLVPLFYKTCP
+>sp|P0C5H4|3SA1_DABRR Cytotoxin drCT-1 (Fragment) OS=Daboia russelii OX=8707 PE=1 SV=1
+LKCNKLVPLFYKTCPAGKNL
+>sp|P86539|3SA3A_NAJNA Cytotoxin 3a (Fragment) OS=Naja naja OX=35670 PE=1 SV=1
+LKCNKLIPLAYKTCPAGKNLCYKMYMVATP
+>sp|P0C944|3SAG_NAJAT Cytotoxin najalgesin (Fragment) OS=Naja atra OX=8656 PE=1 SV=1
+LKCNKLVPLFYKTCPAGKNLCYKMFMVSNK
+>sp|B3EWR3|3SAW_NAJNA Cytotoxin NN-32 (Fragment) OS=Naja naja OX=35670 PE=1 SV=1
+LKCNKLVPLF
+>sp|P0DQH3|3SBA_HEMHA Hemextin A (Fragment) OS=Hemachatus haemachatus OX=8626 PE=1 SV=1
+LKCKNKLVPFLSKTCPEGKNLCYKMTLKKVTPKIKRG
+>sp|P0DQH4|3SBB_HEMHA Hemextin B (Fragment) OS=Hemachatus haemachatus OX=8626 PE=1 SV=1
+LKCKNKVVPFLKCKNKVVPFLCYKMTLKKVTPKIKRG
+>sp|Q9PS08|3SE_DENAN Dendrotoxin A (Fragment) OS=Dendroaspis angusticeps OX=8618 PE=1 SV=1
+TMCYSHTTTSRAILTNCGENSCYRKSRVHP
+>sp|P60235|3SI13_DENAN Muscarinic m1-toxin3 (Fragment) OS=Dendroaspis angusticeps OX=8618 PE=1 SV=1
+LTCVKSDSIWFPTSEDCPDGQNLCFKKWQYISPRMYDFTR
+>sp|P60236|3SI14_DENAN Muscarinic m1-toxin4 (Fragment) OS=Dendroaspis angusticeps OX=8618 PE=1 SV=1
+LTCVKSNSIWFITSENCPAGQNLCFKRWQYISPRMYDFTR
+>sp|P86544|3SO8_NAJNA Muscarinic toxin-like protein 1 (Fragment) OS=Naja naja OX=35670 PE=1 SV=1
+TICYNHLTIRSEVTEICIICDDDYYF
+>sp|Q9PS09|3SOBB_DENAN Dendrotoxin B (Fragment) OS=Dendroaspis angusticeps OX=8618 PE=1 SV=1
+MICYSHKTPQPSATIGCEEKTCYKKSVRKL
+>sp|P0C547|3SOFH_NAJAT Cardiotoxin-like basic polypeptide ah (Fragment) OS=Naja atra OX=8656 PE=1 SV=1
+DCCHNTQLPFIYKTCPEGCNL
+>sp|Q9PRQ2|3SX1_MICNI Nicotinic acetylcholine receptor-binding protein Mnn-1A (Fragment) OS=Micrurus nigrocinctus OX=8635 PE=1 SV=2
+SKCRIGKDGFYSVTCTEKENLCFTQF
+>sp|Q9PRQ3|3SX3_MICNI Nicotinic acetylcholine receptor-binding protein Mnn-3C (Fragment) OS=Micrurus nigrocinctus OX=8635 PE=1 SV=2
+KKCLTKYSAGLQTSQTCPAGQKICFKKW
+>sp|Q9PRQ4|3SX4_MICNI Nicotinic acetylcholine receptor-binding protein Mnn-4 (Fragment) OS=Micrurus nigrocinctus OX=8635 PE=1 SV=2
+LKCYSSRTETMTCPEGKDKCEKYAV
+>sp|P24742|3SXA_CALBG Maticotoxin A (Fragment) OS=Calliophis bivirgatus OX=8633 PE=1 SV=1
+LICYNTPFKDISKTCAEGENLCYYGKKDAVWNLYPIRGCAD
+>sp|P0CAR7|3SX_MICPY Venom protein E2 (Fragment) OS=Micrurus pyrrhocryptus OX=129468 PE=1 SV=1
+LICYVSRDGKTATCPPQGKCEKYAVSASHTXHXFYVYGCTSXC
+>sp|P0DJB0|3X_MICLE Muscarinic toxin Mlalpha (Fragment) OS=Micrurus lemniscatus OX=129464 PE=1 SV=1
+LICFICFSPTAH
+>sp|Q91FC5|400R_IIV6 Uncharacterized protein 400R OS=Invertebrate iridescent virus 6 OX=176652 GN=IIV6-400R PE=3 SV=1
+MKLLNFILIIFNALKSRHLIRCLDSKCHKLFPLLEVNKSTTSL
+>sp|P80173|48KD_BACCE 48 kDa protein (Fragment) OS=Bacillus cereus OX=1396 PE=1 SV=1
+XTQQEGMDISSSLXK
+>sp|P83071|62KD_BACCE 62 kDa protein (Fragment) OS=Bacillus cereus OX=1396 PE=1 SV=1
+MTKDEPLEGNVGVLT
+>sp|P83073|88KD_BACCE 88 kDa protein (Fragment) OS=Bacillus cereus OX=1396 PE=1 SV=1
+MKDTE
+>sp|P83062|92KD_BACCE 92 kDa protein (Fragment) OS=Bacillus cereus OX=1396 PE=1 SV=1
+AHPPEXLSIA
+>sp|P0DUU4|A1245_CONAA Conotoxin Ama1245 OS=Conus amadis OX=198732 PE=1 SV=1
+SQCCYQICSPC
+>sp|P38031|A1AT4_HORSE Alpha-1-antiproteinase 4 (Fragments) OS=Equus caballus OX=9796 PE=1 SV=1
+EDLQGTAVQERSAKASDEEEAIRTLLLTNVEFNRPFVLSIYDR
+>sp|P38026|A1AT_CHILA Alpha-1-antiproteinase (Fragment) OS=Chinchilla lanigera OX=34839 PE=1 SV=1
+EDAQVTDLPDHEQEHLAXHKIAPXLAEFAY
+>sp|P39090|A1BG_EQUAS Alpha-1B-glycoprotein (Fragment) OS=Equus asinus OX=9793 GN=A1BG PE=1 SV=1
+AVVFDPQPALWAEADTQLEP
+>sp|P39091|A1BG_HORSE Alpha-1B-glycoprotein (Fragment) OS=Equus caballus OX=9796 GN=A1BG PE=1 SV=1
+AVVFDPPPALWAEADXQQEPLRNLTQTVGQYLPTLSGXLAE
+>sp|P39092|A1BG_PIG Alpha-1B-glycoprotein (Fragment) OS=Sus scrofa OX=9823 GN=A1BG PE=1 SV=1
+ALFLDPPPNLWAEAQSLLEPWANVTLTSQSRLPVLNFQGL
+>sp|P85980|A1BG_RABIT Alpha-1B-glycoprotein (Fragment) OS=Oryctolagus cuniculus OX=9986 GN=A1BG PE=1 SV=1
+ATFFDPQPRLLAD
+>sp|P0C2K0|A1KB_LOXBO Dermonecrotic toxin LbSicTox-alphaIB1b (Fragment) OS=Loxosceles boneti OX=283164 PE=1 SV=1
+ANKRPVWIMAHMVNAVAQIDEFVNLGANSIETD
+>sp|P0C2K2|A1X1_LOXGA Dermonecrotic toxin LgSicTox-alphaI-1 (Fragment) OS=Loxosceles gaucho OX=58216 PE=1 SV=1
+ADNKRPIWVMGGMVNSLAQIKEFVGLGLDNSEKDNKWYKQ
+>sp|P0C2L0|A1X1_LOXIN Dermonecrotic toxin LiSicTox-alphaI-1 (Fragment) OS=Loxosceles intermedia OX=58218 PE=1 SV=2
+AGNKRPIWIMGAMVNAIKDIXDFVNLGANNIEK
+>sp|Q7M485|A1X1_LOXRE Dermonecrotic toxin LrSicTox-alphaI-1 (Fragment) OS=Loxosceles reclusa OX=6921 PE=1 SV=1
+ANKRPVWIMGHMVNAVYQIDEFVNLGANSIDTDVS
+>sp|P83168|A2AP_STRCA Alpha-2-antiplasmin (Fragment) OS=Struthio camelus OX=8801 GN=SERPINF2 PE=1 SV=1
+LQVDYLVLEVA
+>sp|P20737|A2M_HOMAM Alpha-2-macroglobulin homolog (Fragments) OS=Homarus americanus OX=6706 PE=1 SV=1
+SYIITTPRMWVAGSPAQVRTYVMPYGCGEQNMVNFAPN
+>sp|P30800|A2M_OCTVU Alpha-2-macroglobulin homolog (Fragment) OS=Octopus vulgaris OX=6645 PE=1 SV=1
+KPSGCGEQNMINFYPNVL
+>sp|P20738|A2M_PACLE Alpha-2-macroglobulin homolog (Fragments) OS=Pacifastacus leniusculus OX=6720 PE=1 SV=1
+SYVITTPKMWVMPYGCGEQNMVNFAPNIFIME
+>sp|P0CK19|A305_VACCW Uncharacterized protein A30.5 OS=Vaccinia virus (strain Western Reserve) OX=10254 GN=VACWR153.5 PE=3 SV=1
+MSAVDFLERLIKAGVYIYVLRTKCVIAALLVKNYSIKDE
+>sp|P0C2L1|A3X1_LOXLA Dermonecrotic toxin LlSicTox-alphaIII-1 (Fragment) OS=Loxosceles laeta OX=58217 PE=1 SV=1
+ADNRRPIWNLGHMVNALKQIPTFLXDGANA
+>sp|P20198|A45_SSV1 Uncharacterized protein A-45 OS=Sulfolobus spindle-shape virus 1 OX=244589 GN=a45 PE=4 SV=1
+MYQCLRCGGIFNKRREVVEHLLVGHKHKDRLTLDFYYIYFRVRGQ
+>sp|P86906|A4_FELCA Amyloid-beta precursor protein (Fragment) OS=Felis catus OX=9685 GN=APP PE=1 SV=1
+DAEFRHESGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+>sp|P0CK24|A565_VACCW Uncharacterized protein A56.5 OS=Vaccinia virus (strain Western Reserve) OX=10254 GN=HA PE=3 SV=1
+MSGIVKSIILSGPSGLGKTAIAKRLWEYIWICGVPYH
+>sp|O46201|A98AB_DROME Accessory gland protein 98AB OS=Drosophila melanogaster OX=7227 GN=Acp98AB PE=2 SV=3
+MKLLILFLAALGAASARIRGHTIKG
+>sp|U5L406|AAMA1_AMAEX Alpha-amanitin proprotein 1 OS=Amanita exitialis OX=262245 GN=AMA PE=2 SV=1
+MSDINATRLPIWGIGCNPCVGDDVTSVLTRGEALC
+>sp|A0A023IWE3|AAMA1_AMAFL Alpha-amanitin proprotein OS=Amanita fuligineoides OX=580329 GN=AMA PE=3 SV=1
+MSDINATRLPIWGIGCNPCVGDEVTALLTRGEA
+>sp|A0A023IWM8|AAMA1_AMARI Alpha-amanitin proprotein OS=Amanita rimosa OX=580330 GN=AMA PE=3 SV=1
+MSDINATRLPIWGIGCNPSVGDEVTALLASGEA
+>sp|A0A067SLB9|AAMA1_GALM3 Alpha-amanitin proprotein 1 OS=Galerina marginata (strain CBS 339.88) OX=685588 GN=AMA1-1 PE=1 SV=1
+MFDTNATRLPIWGIGCNPWTAEHVDQTLASGNDIC
+>sp|U5L3X2|AAMA2_AMAEX Alpha-amanitin proprotein 2 OS=Amanita exitialis OX=262245 GN=AMA PE=2 SV=1
+MSDINATRLPIWGIGCNPCVGDDVTSVLTRGEA
+>sp|A0A023UCA6|AAMA2_AMAFL Alpha-amanitin proprotein (Fragment) OS=Amanita fuligineoides OX=580329 PE=3 SV=1
+IWGIGCNPCVGDEVTALITRGEA
+>sp|H2E7Q6|AAMA2_GALM3 Alpha-amanitin proprotein 2 OS=Galerina marginata (strain CBS 339.88) OX=685588 GN=AMA1-2 PE=3 SV=1
+MFDTNSTRLPIWGIGCNPWTAEHVDQTLVSGNDIC
+>sp|U5L408|AAMA5_AMAEX Alpha-amanitin proprotein 5 OS=Amanita exitialis OX=262245 PE=2 SV=1
+MSDINATRLPIWGIGCNPCVGDEVAALLTRGEALC
+>sp|A8W7M4|AAMAT_AMABI Alpha-amanitin proprotein OS=Amanita bisporigera OX=87325 GN=AMA1 PE=3 SV=1
+MSDINATRLPIWGIGCNPCVGDDVTTLLTRGEALC
+>sp|A0A023IWG4|AAMAT_AMAFU Alpha-amanitin proprotein OS=Amanita fuliginea OX=67708 GN=AMA PE=3 SV=1
+MSDINATRLPIWGIGCNPSVGDEVTALLTSGEA
+>sp|P85421|AAMAT_AMAPH Alpha-amanitin proprotein (Fragment) OS=Amanita phalloides OX=67723 PE=1 SV=2
+IWGIGCNPCVGDEVAALLTRGEA
+>sp|A0A023IWK7|AAMAT_AMAPL Alpha-amanitin proprotein OS=Amanita pallidorosea OX=1324310 GN=AMA PE=3 SV=1
+MSDINATRLPIWGIGCNPCVGDEVTALITRGEA
+>sp|P0DUM4|AAPA1_HELPY Toxic protein AapA1 OS=Helicobacter pylori (strain ATCC 700392 / 26695) OX=85962 GN=aapA1 PE=1 SV=1
+MATKHGKNSWKTLYLKISFLGCKVVVLLKR
+>sp|P0DUM5|AAPA3_HELPY Toxic protein AapA3 OS=Helicobacter pylori (strain ATCC 700392 / 26695) OX=85962 GN=aapA3 PE=1 SV=1
+MKHKSGKRSWKTLYFEFAFLGLKVIVSVKR
+>sp|P22702|AAP_NEUCR Arginine attenuator peptide OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 PE=1 SV=1
+MNGRPSVFTSQDYLSDHLWRALNA
+>sp|P08521|AAP_YEAST Arginine attenuator peptide OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YOR302W PE=1 SV=1
+MFSLSNSQYTCQDYISDHIWKTSSH
+>sp|P85951|AAT2_PSEMZ Aspartate aminotransferase 2 (Fragments) OS=Pseudotsuga menziesii OX=3357 PE=1 SV=1
+VATVQGLSGTGSLRNLGLYAERQIGMFSFTGLNK
+>sp|P12343|AATC_RABIT Aspartate aminotransferase, cytoplasmic (Fragment) OS=Oryctolagus cuniculus OX=9986 GN=GOT1 PE=1 SV=2
+MAPPSIFAEVPQAQPVLVFKLTADFREDPDP
+>sp|P85310|AATM_CATRO Aspartate aminotransferase, mitochondrial (Fragments) OS=Catharanthus roseus OX=4058 PE=1 SV=1
+DDNGKPYVLPSVRTCGFDFTGAVEDISK
+>sp|P81925|AB27_CYPCA 27 kDa antibacterial protein (Fragment) OS=Cyprinus carpio OX=7962 PE=1 SV=1
+GIGGKPVQTAFVDNDGIYD
+>sp|P81463|ABAE_BOMPA Abaecin OS=Bombus pascuorum OX=65598 PE=1 SV=1
+FVPYNPPRPGQSKPFPSFPGHGPFNPKIQWPYPLPNPGH
+>sp|C0HL60|ABAN1_LIMMU Antibacterial peptide AN1 (Fragment) OS=Limosilactobacillus mucosae OX=97478 PE=1 SV=1
+LVALDTEFANR
+>sp|C0HL61|ABFER_LIMFE Antibacterial peptide fermentin SNR1 (Fragment) OS=Limosilactobacillus fermentum OX=1613 PE=1 SV=1
+MPTTSHSFHLSPQGK
+>sp|P84979|ABP_POPEU Probable auxin-binding protein (Fragment) OS=Populus euphratica OX=75702 PE=1 SV=1
+KGDIMVFPR
+>sp|P85438|ACAC_CATRO Acetyl-CoA carboxylase (Fragments) OS=Catharanthus roseus OX=4058 PE=1 SV=1
+RISSSVIAHKTQLDSGKREVYSSHMQLGGPK
+>sp|A0A1C8HQ06|ACB2_BPPP4 Inactive anti-CBASS 2 protein OS=Pseudomonas phage PaMx41 OX=1815976 GN=acb2 PE=1 SV=1
+MDNQHKKIKGYRDLSQEEIDMMNRVKELGSQFEKLI
+>sp|P81624|ACBP1_DIGLA Acyl-CoA-binding protein 1 (Fragment) OS=Digitalis lanata OX=49450 PE=1 SV=2
+ALKDEFEEHAEKAKTLPENTSNENKLILYG
+>sp|P81625|ACBP2_DIGLA Acyl-CoA-binding protein 2 (Fragment) OS=Digitalis lanata OX=49450 PE=1 SV=2
+ALKEEFEEHAEKAKTLPENTSSENKLTLYGLYKQATVGNV
+>sp|P84546|ACCC_POPEU Biotin carboxylase (Fragments) OS=Populus euphratica OX=75702 PE=1 SV=1
+ILVANRGEIAVRLLEEAPSPALTPELRITAYLPSGGPFVR
+>sp|P28467|ACEA_ACICA Isocitrate lyase (Fragment) OS=Acinetobacter calcoaceticus OX=471 GN=aceA PE=1 SV=1
+MTYQTAIDAVRELKA
+>sp|P35904|ACH1_LISFU Achatin-1 OS=Lissachatina fulica OX=2315439 PE=1 SV=1
+GFAD
+>sp|P09688|ACHA_ELEEL Acetylcholine receptor subunit alpha (Fragment) OS=Electrophorus electricus OX=8005 GN=chrna1 PE=1 SV=1
+SEDETRLVKNLFSGYNKVVRPVNH
+>sp|P09689|ACHB_ELEEL Acetylcholine receptor subunit beta (Fragment) OS=Electrophorus electricus OX=8005 GN=chrnb1 PE=1 SV=1
+SEAENDLMNKLFTAYNPKVRPAEK
+>sp|P09691|ACHD_ELEEL Acetylcholine receptor subunit delta (Fragment) OS=Electrophorus electricus OX=8005 GN=chrnd PE=1 SV=1
+RNEEERLINHLFKERGYNKELRPAQT
+>sp|P09692|ACHG_ELEEL Acetylcholine receptor subunit gamma (Fragment) OS=Electrophorus electricus OX=8005 GN=chrng PE=1 SV=1
+NEESDLIADKFTNYNKLIRPAKH
+>sp|P84761|ACI_MACGN Angiotensin-1-converting enzyme inhibitory peptide OS=Macrocybe gigantea OX=1491104 PE=1 SV=1
+GEP
+>sp|P18691|ACI_THUAL Angiotensin-converting enzyme inhibitor OS=Thunnus albacares OX=8236 PE=1 SV=1
+PTHIKWGD
+>sp|P83855|ACLP_MOUSE Putative sperm adenylate cyclase (Fragment) OS=Mus musculus OX=10090 PE=1 SV=1
+GVYMEIGRCRXEAXRRRKEAV
+>sp|B3EWE7|ACP1_CYCRE Anticancerous peptide 1 OS=Cycas revoluta OX=3396 PE=1 SV=1
+AWKLFDDGV
+>sp|P80916|ACP_ACICA Acyl carrier protein (Fragment) OS=Acinetobacter calcoaceticus OX=471 GN=acpP PE=1 SV=2
+MSDIEQRIKQAVAEQLGMRAEEIKNE
+>sp|P80917|ACP_ALCFA Acyl carrier protein (Fragment) OS=Alcaligenes faecalis OX=511 GN=acpP PE=1 SV=1
+MESIEQRVKKIVAEQLGVAEAEIKA
+>sp|P80919|ACP_ERYLO Acyl carrier protein (Fragment) OS=Erythrobacter longus OX=1044 G
+(Content truncated due to size limit. Use page ranges or line ranges to read remaining content)
