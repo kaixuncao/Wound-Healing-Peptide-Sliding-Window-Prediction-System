@@ -89,6 +89,9 @@ except Exception:
     input_dims = [20, 40, 60, 9]
 kmer3_dim, kmer4_dim, kmer5_dim, physchem_dim = input_dims
 
+# =========================
+# Tokenizer & helper
+# =========================
 VOCAB = ["<pad>", "<unk>"] + list("ACDEFGHIKLMNPQRSTVWY")
 char_to_int = {c: i for i, c in enumerate(VOCAB)}
 MAX_SEQ_LEN = 45  # model was trained to accept 45-length tokens

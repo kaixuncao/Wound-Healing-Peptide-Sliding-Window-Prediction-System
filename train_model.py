@@ -13,6 +13,7 @@ from sklearn.metrics import roc_curve, auc, precision_recall_curve
 import warnings
 warnings.filterwarnings("ignore")
 
+
 with open("X_train.txt", "r") as f:
     X_train = [line.strip() for line in f if line.strip()]
 with open("X_val.txt", "r") as f:
@@ -38,6 +39,8 @@ X_train_kmer5 = np.load("X_train_kmer5.npy")
 X_val_kmer5 = np.load("X_val_kmer5.npy")
 X_test_kmer5 = np.load("X_test_kmer5.npy")
 
+print(f"Training set: {len(X_train)} sequences (positive: {sum(y_train)}, negative: {len(y_train) - sum(y_train)})")
+
 # Tokenizer
 VOCAB = ["<pad>", "<unk>"] + list("ACDEFGHIKLMNPQRSTVWY")
 char_to_int = {char: i for i, char in enumerate(VOCAB)}
@@ -53,6 +56,7 @@ def tokenize_sequence(sequence, max_len=45):
 X_train_tokenized = np.array([tokenize_sequence(seq) for seq in X_train])
 X_val_tokenized = np.array([tokenize_sequence(seq) for seq in X_val])
 X_test_tokenized = np.array([tokenize_sequence(seq) for seq in X_test])
+
 
 def create_enhanced_model():
     sequence_input = layers.Input(shape=(max_sequence_length,), name="sequence_input")
@@ -92,6 +96,7 @@ def create_enhanced_model():
                  keras.metrics.Precision(name="precision"), keras.metrics.Recall(name="recall")]
     )
     return model
+
 
 kfold = KFold(n_splits=5, shuffle=True, random_state=42)
 fold_no = 1
@@ -154,6 +159,7 @@ for train_idx, val_idx in kfold.split(X_train_tokenized):
     print(f"Fold {fold_no} Results: Acc={results[1]:.3f}, AUC={results[2]:.3f}")
     fold_no += 1
 
+
 metrics_df = pd.DataFrame({
     'Fold': range(1, 6),
     'Accuracy': accuracies,
@@ -172,6 +178,7 @@ plt.ylim(0,1)
 plt.tight_layout()
 plt.savefig("cross_validation_boxplots.png", dpi=300)
 plt.close()
+
 
 rf = RandomForestClassifier(n_estimators=200, random_state=42)
 svm = SVC(kernel='rbf', probability=True, random_state=42)
@@ -198,6 +205,7 @@ plt.title("ROC Curve Comparison")
 plt.legend(); plt.tight_layout()
 plt.savefig("roc_comparison.png", dpi=300)
 plt.close()
+
 
 y_pred_prob = models_list[0].predict(
     [X_val_tokenized, X_val_kmer3, X_val_kmer4, X_val_kmer5, physchem_val]
